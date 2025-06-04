@@ -100,12 +100,11 @@ This project demonstrates the effectiveness of combining real-time data fetching
 
 ---
 
-### Updated `README.md`
+# Crypto Chart Analysis
+---
+This project captures BTC-USDT trading charts, calculates technical indicators, and analyzes the charts using an image-to-text model from Hugging Face.
 
 ```markdown
-# Crypto Chart Analysis
-
-This project captures BTC-USDT trading charts, calculates technical indicators, and analyzes the charts using an image-to-text model from Hugging Face.
 
 ## Table of Contents
 - [Setup](#setup)
